@@ -68,9 +68,6 @@ The dataset includes:
 - Real-time inference pipeline with PACS/HIS integration
 - Extension to multi-organ segmentation
 
-## 📌 Citation
-
-
 ## 📬 Contact
 
 For any questions or collaboration ideas, feel free to reach out via GitHub.
