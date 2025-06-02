@@ -11,6 +11,18 @@ This project implements a deep learning-based pipeline for automated liver segme
 - **Evaluation Metrics:** Dice Similarity Coefficient (DSC) for performance assessment.
 - **Visualization:** Outputs can be visualized using tools like 3D Slicer.
 
+  ## 📁 Dataset
+
+The medical imaging dataset used in this project (CT scans and corresponding liver segmentation masks) can be accessed from the following Google Drive link:
+
+🔗 [Download Dataset](https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2)
+
+The dataset includes:
+- Volumetric CT scans in NIfTI format
+- Corresponding manually annotated liver segmentation masks
+- Preprocessed and sliced volumes for model training
+
+
 ## 🧠 Technologies
 
 - Python 3.x  
